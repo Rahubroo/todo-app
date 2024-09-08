@@ -1,0 +1,35 @@
+.header{
+    margin-top: 20px;
+}
+
+.Logo h1 span:first-of-type{
+    padding: 5px 10px;
+    border: 1px solid #ddd;
+    margin-right: 5px;
+    color: #D19C97;
+}
+.search input{
+    width: 70%;
+    height: 40px;
+    border-radius: 0;
+    border: 1px solid #ddd;
+    font-size: 18px;
+    color: #666;
+    padding: 10px;
+    border-right: none;
+}
+
+.search button {
+    height: 40px;
+    border-radius: 0;
+    border: 1px solid #ddd;
+    font-size: 18px;
+    color: #D19C97;
+    padding: 10px;
+    background-color: #fff;  
+}
+
+.common-btn {
+    font-size: 16px;
+    font-weight: 700;
+}

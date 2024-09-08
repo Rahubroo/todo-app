@@ -1,0 +1,35 @@
+body{
+    margin:0;
+}
+.wrapper{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.arrange-left{
+    float:left;
+}
+
+.wid-25{
+    width: 25%;
+}
+
+.wid-50{
+    width: 50%;
+}
+
+.selected-product button{
+    height: 40px;
+    min-width: 50px;
+    border: 1px solid #ddd;
+    border-radius: 0;
+    text-align: center;
+    background-color: white;
+    color: #D19C97;
+    
+}
+.selected-product{
+    text-align: right;
+}
+
+
+    
