@@ -17,6 +17,10 @@ body{
     width: 50%;
 }
 
+.next-row{
+    clear: both;
+}
+
 .selected-product button{
     height: 40px;
     min-width: 50px;
@@ -32,4 +36,8 @@ body{
 }
 
 
-    
+.roboto-thin {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  } 
